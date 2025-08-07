@@ -32,16 +32,14 @@ This project applies deep learning to predict gene expression levels from histon
 | Spearman R    | ~0.80      | **0.8051** |
 | R² Score      | —          | **0.6469** |
 
-## 📈 Visualizations
 
-- ✅ Ensemble prediction vs. ground truth scatter plot
-- ⏳ Training & validation loss tracking (optional)
-- 📉 Performance comparisons
+
+Ensemble prediction vs. ground truth scatter plot
+
 
 ## 📎 Files
 
-- `model_seed*.pt`: model checkpoints (not uploaded)
-- `ensemble_predictions.csv`: test inputs, labels, predictions
+- `Code`: all ipynb files
 - `scatter_plot.png`: ensemble visualization
 - `README.md`: project overview
 
